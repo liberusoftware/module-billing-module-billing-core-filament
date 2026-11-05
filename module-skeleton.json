@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-module-billing-core-filament",
+  "capabilityKey": "planned:billing:module-billing-core",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/billing-module-billing-core-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-core.md",
+  "presentationPlan": "projects/billing/filament/module-billing-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}

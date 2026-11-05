@@ -1,6 +1,6 @@
 {
-  "name": "liberusoftware/boilerplate-filament",
-  "description": "Liberu reusable Filament presentation module foundation",
+  "name": "liberusoftware/billing-module-billing-core-filament",
+  "description": "Module Billing Core Filament presentation module skeleton",
   "type": "liberu-module",
   "license": "MIT",
   "require": {
@@ -9,15 +9,15 @@
   },
   "autoload": {
     "psr-4": {
-      "Liberu\\Presentation\\BoilerplateFilament\\": "src/"
+      "Liberu\\Presentation\\Capabilityd0e45ab85c46\\": "src/"
     }
   },
   "scripts": {
-    "check": "@php -l src/BoilerplatePlugin.php"
+    "check": "@php -l src/CapabilityPlugin.php"
   },
   "extra": {
     "liberu": {
-      "name": "boilerplate-filament"
+      "name": "billing-module-billing-core-filament"
     }
   }
 }
